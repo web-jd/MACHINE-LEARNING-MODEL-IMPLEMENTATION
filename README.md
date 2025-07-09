@@ -178,3 +178,4 @@ Conclusion
 Python offers a rich ecosystem for machine learning development. From simple linear regression to complex deep learning models, Python’s intuitive syntax and extensive libraries (like scikit-learn, TensorFlow, PyTorch, pandas, and NumPy) make it the preferred choice for data scientists and ML engineers. A machine learning model in Python involves data collection, preprocessing, training, evaluation, and deployment. As organizations continue to adopt data-driven strategies, the ability to build and manage ML models using Python will remain a highly valuable skill.
 
 
+#OUTPUT: ![Image](https://github.com/user-attachments/assets/f03f8d95-1c62-4031-81e3-522fb42b2b45)
